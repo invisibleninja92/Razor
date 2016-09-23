@@ -24,6 +24,7 @@ namespace Razor
     {
         public MainPage()
         {
+            //This is Trevors Edit :)
             this.InitializeComponent();
         }
     }
